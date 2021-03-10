@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\HealthProfile\bin\Debug\HealthProfile.exe.config
+C:\Users\DELL\source\repos\HealthProfile\bin\Debug\HealthProfile.exe
+C:\Users\DELL\source\repos\HealthProfile\bin\Debug\HealthProfile.pdb
+C:\Users\DELL\source\repos\HealthProfile\obj\Debug\HealthProfile.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\HealthProfile\obj\Debug\HealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HealthProfile\obj\Debug\HealthProfile.exe
+C:\Users\DELL\source\repos\HealthProfile\obj\Debug\HealthProfile.pdb
